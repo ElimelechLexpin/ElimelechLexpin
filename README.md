@@ -35,5 +35,8 @@ Debemos utilizar corchetes y parentesis, pero antes colocar un !
 
 <!-- CITAS -->
 > Esto es una cita
+
+<!-- LINEAS HORIZONTALES -->
+---
  
 
