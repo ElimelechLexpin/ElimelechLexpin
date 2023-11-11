@@ -53,6 +53,18 @@ def hola():
 <!-- IMAGEN -->
 <img src='https://static.vecteezy.com/system/resources/previews/008/931/332/non_2x/kids-coloring-pages-cute-cat-character-illustration-eps-and-image-free-vector.jpg' alt='gato' style="width:100px;">
 
+<!-- TABLA -->
+<table>
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+  </tr>
+  <tr>
+    <td>Dato 1</td>
+    <td>Dato 2</td>
+  </tr>
+</table>
+
 
 
 
