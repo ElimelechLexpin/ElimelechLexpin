@@ -51,7 +51,7 @@ def hola():
 <!-- AHORA, CON HTML -->
 
 <!-- IMAGEN -->
-<img src='https://static.vecteezy.com/system/resources/previews/008/931/332/non_2x/kids-coloring-pages-cute-cat-character-illustration-eps-and-image-free-vector.jpg' alt='gato' style="width:100px;">
+<img src='https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif' alt='gato' style="width:100px;">
 
 <!-- TABLA -->
 <table>
