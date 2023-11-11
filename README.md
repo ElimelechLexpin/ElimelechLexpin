@@ -73,6 +73,12 @@ def hola():
 
 <hr style="border:2px solid rgb(255,0,0);">
 
+<!-- CONTENEDORES (NO DIV) y SI (P) -->
+
+<p>
+  <a href="https://www.google.com" style="color:rgb(255,0,0);">Enlace2</a>
+</p>
+
 
 
 
