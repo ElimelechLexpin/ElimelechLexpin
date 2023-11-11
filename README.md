@@ -30,7 +30,7 @@ Debemos utilizar corchetes y parentesis para crear enlaces
 
 <!-- COLOCAR UNA IMAGEN
 Debemos utilizar corchetes y parentesis, pero antes colocar un !
+![textoAlternativo](url)
 -->
-
-![gato](https://static.vecteezy.com/system/resources/previews/008/931/332/non_2x/kids-coloring-pages-cute-cat-character-illustration-eps-and-image-free-vector.jpg)
+ 
 
