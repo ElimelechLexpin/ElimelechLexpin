@@ -14,3 +14,10 @@ Utilizar ( # ) para crear encabezados de diferentes niveles
 **Negrita**
 *Cursiva*
 
+<!-- LISTAS -->
+
+- Elemento 1
+- Elemento 2
+- Elemento 3
+
+
