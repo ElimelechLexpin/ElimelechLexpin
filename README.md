@@ -38,5 +38,8 @@ Debemos utilizar corchetes y parentesis, pero antes colocar un !
 
 <!-- LINEAS HORIZONTALES -->
 ---
+---
+---
+---
  
 
