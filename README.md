@@ -2,3 +2,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=ambient_gradient&bg_color=000&text_color=aaa&title_color=f00)
+
+<!-- ENCABEZADOS Markdown -->
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
