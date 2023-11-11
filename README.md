@@ -69,6 +69,10 @@ def hola():
 
 <a href="https://www.google.com" style="color:rgb(255,0,0);">Enlacee</a>
 
+<!-- LINEAS HORIZONTALES -->
+
+<hr style="border:2px solid rgb(255,0,0);">
+
 
 
 
