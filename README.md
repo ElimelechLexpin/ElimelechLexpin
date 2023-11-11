@@ -32,5 +32,8 @@ Debemos utilizar corchetes y parentesis para crear enlaces
 Debemos utilizar corchetes y parentesis, pero antes colocar un !
 ![textoAlternativo](url)
 -->
+
+<!-- CITAS -->
+> Esto es una cita
  
 
