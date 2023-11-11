@@ -67,7 +67,7 @@ def hola():
 
 <!-- ENLACES HTML -->
 
-<a href="https://www.google.com" style="color:rgb(255,0,0)">Enlacee</a>
+<a href="https://www.google.com" style="color:rgb(255,0,0);">Enlacee</a>
 
 
 
