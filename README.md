@@ -41,5 +41,11 @@ Debemos utilizar corchetes y parentesis, pero antes colocar un !
 ---
 ---
 ---
- 
+
+ <!-- MOSTRAR CODIGO -->
+```javascript
+function hola(){
+ console.log('Hello People')
+}
+```
 
