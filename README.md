@@ -20,4 +20,7 @@ Utilizar ( # ) para crear encabezados de diferentes niveles
 - Elemento 2
 - Elemento 3
 
+1. Primero
+2. Segundo
+
 
