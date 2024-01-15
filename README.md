@@ -7,7 +7,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=ambient_gradient&bg_color=fff)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=ambient_gradient&bg_color=000&text_color=aaa&title_color=f00)
