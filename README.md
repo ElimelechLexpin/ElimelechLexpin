@@ -38,7 +38,6 @@ Debemos utilizar corchetes y parentesis para crear enlaces
 Debemos utilizar corchetes y parentesis, pero antes colocar un !
 ![textoAlternativo](url)
 -->
-![imagen](https://img.freepik.com/vector-gratis/perro-lindo-alegre-sobre-fondo-blanco_1308-132745.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705276800&semt=ais)
 
 <!-- CITAS -->
 > Esto es una cita
@@ -58,7 +57,7 @@ def hola():
 <!-- AHORA, CON HTML -->
 
 <!-- IMAGEN -->
-<img src='https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif' alt='gato' style="width:400px;">
+<img src='https://experienciajoven.com/wp-content/uploads/2023/01/que-hace-un-programador-web.gif' alt='programador' style="width:400px;">
 
 <!-- TABLA -->
 <table>
