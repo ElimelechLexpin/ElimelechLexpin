@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F737&random=false&width=435&lines=Hola%2C+Soy+Eli🐧;Un+programador+full+stack🤳)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=4000&pause=500&color=24F700&background=FFFFFF00&random=false&width=435&lines=Hola+Mundo!;Soy+programador;Full+Stack)](https://git.io/typing-svg)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=ambient_gradient&bg_color=000&text_color=aaa&title_color=f00)
 
