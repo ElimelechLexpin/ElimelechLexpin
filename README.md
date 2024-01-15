@@ -38,6 +38,7 @@ Debemos utilizar corchetes y parentesis para crear enlaces
 Debemos utilizar corchetes y parentesis, pero antes colocar un !
 ![textoAlternativo](url)
 -->
+![imagen](https://img.freepik.com/vector-gratis/perro-lindo-alegre-sobre-fondo-blanco_1308-132745.jpg?size=626&ext=jpg&ga=GA1.1.1412446893.1705276800&semt=ais)
 
 <!-- CITAS -->
 > Esto es una cita
