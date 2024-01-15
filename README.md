@@ -32,6 +32,7 @@ Utilizar ( # ) para crear encabezados de diferentes niveles
 Debemos utilizar corchetes y parentesis para crear enlaces
 -->
 [Pagina Williams](https://williamscesar.ejaqlxpn.com/)
+[Soy un enlace](https://google.com)
 
 <!-- COLOCAR UNA IMAGEN
 Debemos utilizar corchetes y parentesis, pero antes colocar un !
