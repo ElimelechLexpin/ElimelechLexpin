@@ -14,7 +14,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=synthwave&bg_color=333&title_color=0f0&text_color=00f)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=ambient_gradient&bg_color=000&text_color=aaa&title_color=f00)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=false&theme=ambient_gradient&bg_color=000&text_color=aaa&title_color=f00)
 
 <!-- ENCABEZADOS Markdown 
 Utilizar ( # ) para crear encabezados de diferentes niveles
