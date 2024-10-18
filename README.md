@@ -7,6 +7,8 @@
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
+<img src="https://c.tenor.com/X8854xxuQ_EAAAAd/tenor.gif" height="240" width="370">
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=true&theme=ambient_gradient&bg_color=333&title_color=0f0&text_color=00f)
