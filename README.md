@@ -16,6 +16,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&show_icons=false&theme=ambient_gradient&bg_color=000&text_color=aaa&title_color=f00)
 
+![ElimelechLexpin's Stats](https://github-readme-stats.vercel.app/api?username=ElimelechLexpin&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+
 <!-- ENCABEZADOS Markdown 
 Utilizar ( # ) para crear encabezados de diferentes niveles
 -->
