@@ -92,7 +92,7 @@ def hola():
 
 <!-- CONTENEDORES (NO DIV) y SI (P) -->
 
-<p align="center">
+<p align="left">
   <a href="https://www.google.com" style="color:rgb(255,0,0);">Enlace2</a>
 </p>
 
