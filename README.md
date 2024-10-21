@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
-<img src="https://c.tenor.com/X8854xxuQ_EAAAAd/tenor.gif" height="240" width="370">
+<img src="https://user-images.githubusercontent.com/76079388/132920075-93bbbb22-ac8e-491a-b33a-3f457b9933bf.gif" height="240" width="370">
 
 
 
